@@ -1,2 +1,2 @@
 # aero552
-# This repository contains work from AERO 552 - Aerospace Information Systems
+# This repository contains coursework for AERO 552 Aerospace Information Systems
